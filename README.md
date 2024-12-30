@@ -14,6 +14,7 @@
 https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/23.05.4/packages/aarch64_cortex-a53/luci/ <br>
 https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/23.05.4/packages/x86_64/luci/ 
 
+[![Github](https://img.shields.io/badge/Release文件可在国内加速站下载-FC7C0D?logo=github&logoColor=fff&labelColor=000&style=for-the-badge)](https://wkdaily.cpolar.top/archives/1) 
 
 ## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
 https://github.com/wukongdaily/RunFilesBuilder<br>
